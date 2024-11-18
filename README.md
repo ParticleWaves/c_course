@@ -1,5 +1,5 @@
 # C/C++ Programming Course Topics
-**updated: Sep 3, 2024**
+**updated: Nov 18, 2024**
 
 This repo provides a comprehensive course outline for C and C++ topics, covering beginner level concepts and syntax all the way through advanced and research level subjects.
 
